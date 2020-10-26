@@ -36,5 +36,5 @@ the takeing user input slot duration:1.5(1hour 30 min)
 slot hour  input should be in the form of `1.5` means 1:30 h
 All required output are stored in the `output.txt` file
 
-And last output in 24 hour format.ex `12:30-13:30`
+And last output is in 24 hour format.ex `12:30-13:30`
  
