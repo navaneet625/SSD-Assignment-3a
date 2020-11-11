@@ -1,4 +1,4 @@
-#Assignment3.b
+#Assignment3c
 ##Q1
    same as previous one. 
 ##Q2
